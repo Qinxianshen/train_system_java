@@ -8,6 +8,28 @@
 ![cmd-markdown-logo](./pic/1.png)
 
 
+# 数据
+
+使用data文件夹里的sql文件导入对应的数据集
+
+### station表
+
+![cmd-markdown-logo](./pic/5.png)
+
+### train表
+
+![cmd-markdown-logo](./pic/2.png)
+
+### train_station表
+
+
+![cmd-markdown-logo](./pic/3.png)
+
+
+### user表
+
+![cmd-markdown-logo](./pic/4.png)
+
 
 --- 
 
