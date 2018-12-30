@@ -1,0 +1,10 @@
+.back-color {
+	background-image: url(img/login/0.jpg);
+	position: relative;
+	width: 100%;
+	background: #333;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+	z-index: 1;
+}
