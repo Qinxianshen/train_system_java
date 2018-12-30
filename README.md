@@ -30,6 +30,15 @@
 
 ![cmd-markdown-logo](./pic/4.png)
 
+# 问题
+
+## 出现<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>错误的问题时
+
+
+参考这个答案：[解决方案](https://stackoverflow.com/questions/13285826/can-not-find-the-tag-library-descriptor-for-http-java-sun-com-jsp-jstl-core)
+
+![cmd-markdown-logo](./pic/6.png)
+
 
 --- 
 
