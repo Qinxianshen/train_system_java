@@ -80,6 +80,7 @@
     </div>
     <div class="fieldContainer">
         <label><a style="color:#ffffff" href="/TrainQuery/station/AdvancedSearch">测试 ${NODirect}</a></label>
+        |
         <label><a style="color:#ffffff" href="/TrainQuery/station/StationDijkstra">StationDijkstra</a></label>
     </div>
 

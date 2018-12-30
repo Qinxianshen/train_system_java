@@ -1,8 +1,8 @@
 # train_system_java
-火车订票系统
+火车票查询系统 SpringMVC + Maven
 
 
-# 后台接口
+# 后台接口 Node.js
 
 [参考仓库](https://github.com/yanm1ng/node-ctrip-tickets)
 ![cmd-markdown-logo](./pic/1.png)
@@ -39,17 +39,25 @@
 
 ### 成功
 
-![cmd-markdown-logo](./pic/12.png)
+![cmd-markdown-logo](./pic/13.png)
 
 ### 失败
 
-![cmd-markdown-logo](./pic/13.png)
+![cmd-markdown-logo](./pic/12.png)
 
 ### 简单查询
 
 ![cmd-markdown-logo](./pic/14.png)
 
 ![cmd-markdown-logo](./pic/15.png)
+
+### 高级查询
+
+使用Dijkstra算法计算两站之间的最短路径
+
+![cmd-markdown-logo](./pic/17.png)
+
+![cmd-markdown-logo](./pic/16.png)
 
 
 # 问题
