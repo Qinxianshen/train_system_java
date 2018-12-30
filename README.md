@@ -44,6 +44,13 @@
 
 参考这个博客：[解决方案](https://techforworld.wordpress.com/2016/10/21/spring-mvc-modelview-object-values-not-showing-using-el/)
 
+## SpringMVC使用可以访问静态资源，但是导致Controller访问失败
+
+参考这个博客：[解决方案](https://blog.csdn.net/wu9333/article/details/70859860)
+
+
+
+
 
 --- 
 

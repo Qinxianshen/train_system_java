@@ -5,6 +5,11 @@
 	version="3.0">
   <display-name>Archetype Created Web Application</display-name>
   
+  	<welcome-file-list>
+		<welcome-file>Login.jsp</welcome-file>
+	</welcome-file-list>
+  
+  
   	<!-- 指定Spring Bean的配置文件所在目录。默认配置在WEB-INF目录下 -->
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
