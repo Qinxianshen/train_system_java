@@ -40,6 +40,11 @@
 ![cmd-markdown-logo](./pic/6.png)
 
 
+## 出现${message}参数传不了的情况时候
+
+参考这个博客：[解决方案](https://techforworld.wordpress.com/2016/10/21/spring-mvc-modelview-object-values-not-showing-using-el/)
+
+
 --- 
 
 ## 关于我
