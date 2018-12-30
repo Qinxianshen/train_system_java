@@ -43,9 +43,9 @@
         <property name="mappingResources">
             <list>
                 <value>hbm/User.hbm.xml</value>
-<!--                 <value>hbm/Station.hbm.xml</value> -->
-<!--                 <value>hbm/Train.hbm.xml</value> -->
-<!--                 <value>hbm/TrainStation.hbm.xml</value> -->
+                <value>hbm/Station.hbm.xml</value>
+                <value>hbm/Train.hbm.xml</value>
+                <value>hbm/TrainStation.hbm.xml</value>
             </list>
         </property>
     </bean>
