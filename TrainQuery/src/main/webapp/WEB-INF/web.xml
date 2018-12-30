@@ -29,6 +29,24 @@
       <url-pattern>/</url-pattern>
    </servlet-mapping>
    
+<!--    不需要拦截的都需要配置一下 -->
+   <servlet-mapping>  
+        <servlet-name>HelloWeb</servlet-name> 
+        <url-pattern>*.jpg</url-pattern>    
+    </servlet-mapping>  
+   <servlet-mapping>  
+        <servlet-name>HelloWeb</servlet-name> 
+        <url-pattern>*.png</url-pattern>    
+    </servlet-mapping>   
+    <servlet-mapping>      
+        <servlet-name>HelloWeb</servlet-name>   
+        <url-pattern>*.js</url-pattern>   
+    </servlet-mapping>   
+    <servlet-mapping>       
+        <servlet-name>HelloWeb</servlet-name>      
+        <url-pattern>*.css</url-pattern>     
+    </servlet-mapping>
+   
    	<!-- Spring配置 -->
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>

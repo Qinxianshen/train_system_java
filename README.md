@@ -39,11 +39,11 @@
 
 ### 成功
 
-![cmd-markdown-logo](./pic/9.png)
+![cmd-markdown-logo](./pic/12.png)
 
 ### 失败
 
-![cmd-markdown-logo](./pic/10.png)
+![cmd-markdown-logo](./pic/13.png)
 
 
 
@@ -67,7 +67,15 @@
 参考这个博客：[解决方案](https://blog.csdn.net/wu9333/article/details/70859860)
 
 
+## Controller跳转jsp时无法加载静态资源
 
+需要加上绝对路径${pageContext.request.contextPath}
+
+![cmd-markdown-logo](./pic/11.png)
+
+
+
+参考这个教程：[解决方案](https://www.yiibai.com/spring_mvc/configuring-static-resource-and-resource-bundle-in-spring-mvc.html)
 
 
 --- 

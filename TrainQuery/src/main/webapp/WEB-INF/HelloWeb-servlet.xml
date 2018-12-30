@@ -21,7 +21,7 @@
 
    <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
       <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
-      <property name="prefix" value="/WEB-INF/jsp/" />
+      <property name="prefix" value="/jsp/" />
       <property name="suffix" value=".jsp" />
    </bean>
 	
@@ -29,4 +29,6 @@
     <mvc:resources mapping="js/**" location="/static/js/"/>
     <mvc:resources mapping="css/**" location="/static/css/"/>
     <mvc:resources mapping="img/**" location="/static/img/"/>	
+    
+ 
 </beans>

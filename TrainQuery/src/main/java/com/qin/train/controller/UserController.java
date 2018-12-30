@@ -29,6 +29,7 @@ public class UserController {
             modelAndView.addObject("existUser",userList);
             System.out.println(userList.get(0).getUserName() + userList.get(0).getPassword());
             if (existUser.getAdmin() == 0){
+            	modelAndView.addObject("username", userList.get(0).getUserName());
                 modelAndView.setViewName("success");
             } else {
                 modelAndView.setViewName("redirect:/admin/showStation");
