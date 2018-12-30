@@ -28,7 +28,7 @@ public class HelloController{
 	@RequestMapping("/qin")
     public ModelAndView login(HttpServletRequest req,HttpServletResponse resp) throws Exception {
         ModelAndView modelAndView = new ModelAndView();
-        modelAndView.addObject("message", "qinzijing");
+        modelAndView.addObject("message", "ÇØ×Ó¾´");
         modelAndView.setViewName("hello");
         return modelAndView;
     }
