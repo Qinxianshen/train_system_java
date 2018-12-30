@@ -59,6 +59,20 @@
 
 ![cmd-markdown-logo](./pic/16.png)
 
+### 后台管理
+
+![cmd-markdown-logo](./pic/18.png)
+
+#### 添加删除站点
+
+![cmd-markdown-logo](./pic/18.png)
+
+![cmd-markdown-logo](./pic/19.png)
+
+![cmd-markdown-logo](./pic/20.png)
+
+![cmd-markdown-logo](./pic/21.png)
+
 
 # 问题
 
